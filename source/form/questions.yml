@@ -1,0 +1,56 @@
+questions:
+    - title: What's your name?
+      type: Paragraph
+      required: True
+
+    - title: Your e-mail address:
+      type: Email
+      required: True
+
+    - title: Your phone number:
+      type: Paragraph
+      required: True
+
+    - title: Where are you from?
+      type: Paragraph
+      required: True
+
+    - title: How old are you?
+      type: Paragraph
+      required: False
+
+    - title: Which operating system do you use?
+      type: Choices
+      required: True
+
+    - title: What is your current level of experience with programming?
+      type: Choices
+      required: True
+
+    - title: If you checked anything other than beginner, could you tell us a bit more about your programming knowledge?
+      type: Long text
+      required: False
+
+    - title: What is your current occupation?
+      type: Long text
+      required: True
+
+    - title: Why do you want to attend the workshop?
+      type: Long text
+      required: True
+
+    - title: How are you planning to share what you've learnt with others?
+      type: Long text
+      required: False
+
+    - title: How did you hear about Django Girls?
+      type: Choices
+      required: False
+
+    - title: I acknowledge that some of my data will be used on Third Party Sites and Service.
+      type: Choices
+      required: True
+
+    - title: It is important that all attendees comply with the <a href='/coc/'>Django Girls Code of Conduct</a>
+      type: Choices
+      required: True
