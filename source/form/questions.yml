@@ -7,50 +7,85 @@ questions:
       type: Email
       required: True
 
-    - title: Твой номер телефона (нужен для аварийной связи с тобой):
+    - title: Твой номер телефона:
+      help: Включая код страны (+7 для России). Нужен, чтобы мы могли связаться с тобой
       type: Paragraph
       required: True
 
-    - title: Из какого ты города?
+    - title: Откуда ты?
+      help: Город, Страна
       type: Paragraph
       required: True
 
     - title: Сколько тебе лет?
+      help:
       type: Paragraph
       required: False
 
     - title: Какую операционную систему ты используешь?
+      help:
+      choices: Mac OS X; Windows; Linux
       type: Choices
       required: True
 
-    - title: Как ты оцениваешь свой текущий опыт в программировании?
+    - title: Какой у тебя опыт в программировании?
+      help:
+      choices: |
+        Я совсем новичок, не знаю ничего;
+        Пробовала немного HTML/CSS;
+        Пробовала немного JavaScript;
+        Прошла несколько уроков по Python;
+        Я уже делала сайты;
+        Я профессионально занимаюсь разработкой
       type: Choices
       required: True
 
-    - title: Если ты отметила что-то иное, кроме новичка, расскажи чуть больше о своём опыте программирования.
+    - title: Расскажи чуть больше о своём опыте программирования.
+      help: Если ты совсем новичок, пропусти этот вопрос
       type: Long text
       required: False
 
-    - title: Чем ты занимаешься на данный момент?
+    - title: Какое у тебя основное занятие?
+      help: Работаешь где-то? Укажи название компании. Учишься? Расскажи, на кого и где.
       type: Long text
       required: True
 
     - title: Почему ты хочешь посетить наш воркшоп?
+      help: Расскажи нам, что тебя мотивирует и вдохновляет.
       type: Long text
       required: True
 
-    - title: Как ты планируешь делиться полученными на воркшопе знаниями с другими?
+    - title: Как ты планируешь делиться с другими полученными на воркшопе знаниями?
+      help: |
+        Django Girls is a volunteer-run organisation
+        and we look for people who are active and can help us help more women get into the field.
+        We want you to share what you learn at the workshop with others in different ways:
+        by organising a Django Girls event in your city, talking about Django Girls on your local meetups,
+        writing a blog or simply teaching your friends.
       type: Long text
       required: False
 
     - title: Откуда ты узнала про Django Girls?
+      help: |
+        Django Girls is a volunteer-run organisation
+        and we look for people who are active and can help us help more women get into the field.
+        We want you to share what you learn at the workshop with others in different ways:
+        by organising a Django Girls event in your city, talking about Django Girls on your local meetups,
+        writing a blog or simply teaching your friends.
       type: Choices
       required: False
 
     - title: Я подтверждаю, что предоставленные мною данные могут храниться в целях обработки и могут быть переданы третьей стороне.
+      help: |
+        Data collected through this form is used only for the purpose of Django Girls events.
+        We're using Third Party Sites and Services to make it happen:
+        for example, we're using Mandrill to send you emails.
+        Don't worry: We don't share your data with spammers, and we don't sell it! More info on our Privacy policy here.
       type: Choices
+      choices: подтверждаю
       required: True
 
     - title: Важно, чтобы все участники следовали <a href='/coc/'>Django Girls Code of Conduct</a>
+      help:
       type: Choices
       required: True
