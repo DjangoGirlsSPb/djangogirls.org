@@ -55,32 +55,43 @@ questions:
       type: Long text
       required: True
 
-    - title: Как ты планируешь делиться с другими полученными на воркшопе знаниями?
+    - title: Расскажи, как ты планируешь делиться тем, что узнаешь на воркшопе?
       help: |
-        Django Girls is a volunteer-run organisation
-        and we look for people who are active and can help us help more women get into the field.
-        We want you to share what you learn at the workshop with others in different ways:
-        by organising a Django Girls event in your city, talking about Django Girls on your local meetups,
-        writing a blog or simply teaching your friends.
+        Django Girls — инициатива, которую делают волонтёры.
+
+        Мы ищем активных людей, кто мог бы помочь нам привлечь больше женщин в сферу айти.
+        Мы хотим, чтобы ты обязательно поделилась тем, что узнаешь на воркшопе. Есть разные способы:
+        организуй мероприятие Django Girls в своём городе, расскажи про Django Girls на своём локальном митапе,
+        напиши пост в блог или попросту расскажи что-то своим подругам.
       type: Long text
       required: False
 
     - title: Откуда ты узнала про Django Girls?
-      help: |
-        Django Girls is a volunteer-run organisation
-        and we look for people who are active and can help us help more women get into the field.
-        We want you to share what you learn at the workshop with others in different ways:
-        by organising a Django Girls event in your city, talking about Django Girls on your local meetups,
-        writing a blog or simply teaching your friends.
+      help:
       type: Choices
+      choices: |
+        Facebook;
+        Twitter;
+        VK;
+        от друзей/знакомых;
+        от одного из спонсоров мероприятия;
+        нашла в интернете;
+        на Django Girls Moscow;
+        на PiterPy;
+        на Moscow Python Meetup;
+        на PyCon Russia;
+        PyLadies;
+        другое (о, расскажи нам при случае, откуда)
       required: False
 
     - title: Я подтверждаю, что предоставленные мною данные могут храниться в целях обработки и могут быть переданы третьей стороне.
       help: |
-        Data collected through this form is used only for the purpose of Django Girls events.
-        We're using Third Party Sites and Services to make it happen:
-        for example, we're using Mandrill to send you emails.
-        Don't worry: We don't share your data with spammers, and we don't sell it! More info on our Privacy policy here.
+        Данные из этой формы используются только в целях организации мероприятий Django Girls.
+        Мы можем задействовать сайты/сервисы третьих сторон для этого: например, мы используем Mandrill, чтобы отсылать письма.
+
+        Мы НЕ отдаём ваши данные спамерам/посторонним, и НЕ торгуем ими.
+
+        Больше информации тут: <a href='/privacy-cookies/'>Privacy policy</a>.
       type: Choices
       choices: подтверждаю
       required: True
