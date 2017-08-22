@@ -1,2 +1,2 @@
-# djangogirls.org_landing
-djangogirls.org/spb landing
+# djangogirls.org
+djangogirls.org/spb
