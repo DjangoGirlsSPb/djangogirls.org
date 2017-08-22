@@ -1,56 +1,56 @@
 questions:
-    - title: What's your name?
+    - title: Как тебя зовут?
       type: Paragraph
       required: True
 
-    - title: Your e-mail address:
+    - title: Твой e-mail:
       type: Email
       required: True
 
-    - title: Your phone number:
+    - title: Твой номер телефона (нужен для аварийной связи с тобой):
       type: Paragraph
       required: True
 
-    - title: Where are you from?
+    - title: Из какого ты города?
       type: Paragraph
       required: True
 
-    - title: How old are you?
+    - title: Сколько тебе лет?
       type: Paragraph
       required: False
 
-    - title: Which operating system do you use?
+    - title: Какую операционную систему ты используешь?
       type: Choices
       required: True
 
-    - title: What is your current level of experience with programming?
+    - title: Как ты оцениваешь свой текущий опыт в программировании?
       type: Choices
       required: True
 
-    - title: If you checked anything other than beginner, could you tell us a bit more about your programming knowledge?
+    - title: Если ты отметила что-то иное, кроме новичка, расскажи чуть больше о своём опыте программирования.
       type: Long text
       required: False
 
-    - title: What is your current occupation?
+    - title: Чем ты занимаешься на данный момент?
       type: Long text
       required: True
 
-    - title: Why do you want to attend the workshop?
+    - title: Почему ты хочешь посетить наш воркшоп?
       type: Long text
       required: True
 
-    - title: How are you planning to share what you've learnt with others?
+    - title: Как ты планируешь делиться полученными на воркшопе знаниями с другими?
       type: Long text
       required: False
 
-    - title: How did you hear about Django Girls?
+    - title: Откуда ты узнала про Django Girls?
       type: Choices
       required: False
 
-    - title: I acknowledge that some of my data will be used on Third Party Sites and Service.
+    - title: Я подтверждаю, что предоставленные мною данные могут храниться в целях обработки и могут быть переданы третьей стороне.
       type: Choices
       required: True
 
-    - title: It is important that all attendees comply with the <a href='/coc/'>Django Girls Code of Conduct</a>
+    - title: Важно, чтобы все участники следовали <a href='/coc/'>Django Girls Code of Conduct</a>
       type: Choices
       required: True
