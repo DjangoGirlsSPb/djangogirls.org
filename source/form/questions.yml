@@ -106,4 +106,5 @@ questions:
     - title: Важно, чтобы все участники следовали <a href='/coc/'>Django Girls Code of Conduct</a>
       help:
       type: Choices
+      choices: Я прочла и поняла Django Girls Code of Conduct
       required: True
