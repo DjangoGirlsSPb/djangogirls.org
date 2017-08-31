@@ -1,4 +1,4 @@
-# Нормы поведения Django Girls
+# Кодекс поведения Django Girls
 
 _Этот документ также доступен на [испанском (Español)](https://djangogirls.org/coc/es/),
 [французском (Français)](https://djangogirls.org/coc/fr/),
