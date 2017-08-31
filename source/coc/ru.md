@@ -3,7 +3,7 @@
 Этот документ также доступен на [испанском](https://djangogirls.org/coc/es/),
 [французском](https://djangogirls.org/coc/fr/),
 [корейском](https://djangogirls.org/coc/ko/),
-[португальском](https://djangogirls.org/coc/pt-br/) языках.  
+и [португальском](https://djangogirls.org/coc/pt-br/).  
   
 Цель Django Girls - быть гостеприимным мероприятием,
 где люди встречаются в дружественной обстановке.
