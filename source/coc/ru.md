@@ -1,6 +1,6 @@
 # Кодекс поведения Django Girls
 
-_Этот документ также доступен на [английском(English)](https://djangogirls.org/coc/), [испанском (Español)](https://djangogirls.org/coc/es/),
+_Этот документ также доступен на [английском (English)](https://djangogirls.org/coc/), [испанском (Español)](https://djangogirls.org/coc/es/),
 [французском (Français)](https://djangogirls.org/coc/fr/),
 [корейском (한국어)](https://djangogirls.org/coc/ko/),
 и [португальском (português do Brasil)](https://djangogirls.org/coc/pt-br/)._  
