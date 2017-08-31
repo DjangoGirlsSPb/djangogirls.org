@@ -103,8 +103,8 @@ questions:
       choices: подтверждаю
       required: True
 
-    - title: Важно, чтобы все участники следовали <a href='/coc/'>Django Girls Code of Conduct</a>
+    - title: Важно, чтобы все участники следовали <a href='https://github.com/DjangoGirlsSPb/djangogirls.org/blob/master/source/coc/ru.md'>Нормам поведения Django Girls</a>
       help:
       type: Choices
-      choices: Я прочла и поняла Django Girls Code of Conduct
+      choices: Я прочла и принимаю Нормы поведения Django Girls
       required: True
