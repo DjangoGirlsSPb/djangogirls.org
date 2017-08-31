@@ -1,9 +1,9 @@
 # Нормы поведения Django Girls
 
-Этот документ также доступен на [испанском](https://djangogirls.org/coc/es/),
+_Этот документ также доступен на [испанском](https://djangogirls.org/coc/es/),
 [французском](https://djangogirls.org/coc/fr/),
 [корейском](https://djangogirls.org/coc/ko/),
-и [португальском](https://djangogirls.org/coc/pt-br/).  
+и [португальском](https://djangogirls.org/coc/pt-br/)._  
   
 Цель Django Girls - быть гостеприимным мероприятием,
 где люди встречаются в дружественной обстановке.
