@@ -3,7 +3,7 @@ questions:
       type: Paragraph
       required: True
 
-    - title: Твой e-mail:
+    - title: Твой email:
       type: Email
       required: True
 
