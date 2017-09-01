@@ -1,4 +1,10 @@
 questions:
+    - title: У тебя есть ноутбук?
+      help: Нет, планшет не подойдёт. Если нету ноутбука, подумай, можешь ли одолжить у кого-то на время мероприятия
+      type: Choices
+      choices: да, у меня есть ноутбук
+      required: True
+
     - title: Как к тебе обращаться?
       type: Paragraph
       required: True
