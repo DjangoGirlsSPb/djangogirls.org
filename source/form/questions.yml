@@ -24,7 +24,7 @@ questions:
 
     - title: Какую операционную систему ты используешь?
       help:
-      choices: Mac OS X; Windows; Linux
+      choices: Mac OS X; Windows; Linux; Chrome OS
       type: Choices
       required: True
 
