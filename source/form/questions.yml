@@ -5,10 +5,16 @@ questions:
       choices: да, у меня есть ноутбук
       required: True
 
-    - title: Как к тебе обращаться?
+    - title: Твоё имя:
+      help: Как к тебе обращаться?
       type: Paragraph
       required: True
-
+      
+    - title: Твоя фамилия:
+      help: Это вовсе не нужно нам, но нужно охране здания, к сожалению
+      type: Paragraph
+      required: True
+      
     - title: Твой email:
       type: Email
       required: True
