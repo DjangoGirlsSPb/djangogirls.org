@@ -9,8 +9,8 @@
 
 ### Материалы на английском
 
-- [https://github.com/amureki/django_faq](https://github.com/amureki/django_faq)
-- [https://www.codecademy.com/](https://www.codecademy.com/)
-- [https://learnpythonthehardway.org/book/](https://learnpythonthehardway.org/book/)
-- [https://www.udacity.com/course/intro-to-computer-science--cs101](https://www.udacity.com/course/intro-to-computer-science--cs101)
-- [http://online.stanford.edu/course/computer-science-101-self-paced](http://online.stanford.edu/course/computer-science-101-self-paced)
+- [Огромный список полезных ссылок по Django, собранных телеграм-чатом @pydjango](https://github.com/amureki/django_faq)
+- [Интерактивные онлайн-курсы по программированию](https://www.codecademy.com/)
+- [Классическая книжка по Python "Learn Python The Hard Way"](https://learnpythonthehardway.org/book/)
+- [Курс "Введение в Computer Science" на udacity](https://www.udacity.com/course/intro-to-computer-science--cs101)
+- [Курс Computer Science 101 (стенфордский, для произвольного темпа)](http://online.stanford.edu/course/computer-science-101-self-paced)
