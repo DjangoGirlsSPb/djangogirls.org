@@ -6,6 +6,7 @@
 - [Курс по программированию на Python, для людей с промежуточным уровнем знаний](https://www.coursera.org/learn/programming-in-python)
 - [Курсы по Computer Science на русском языке](https://stepik.org/catalog?language=ru&tag=22872)
 - [Документация по Python на русском языке](http://python-lab.ru/documentation/index.html)
+- [Что делать студентам курса после выпуска (огромный список материалов)](http://melevir.com/things/python_styleru/next/)
 
 ### Материалы на английском
 
