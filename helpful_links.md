@@ -23,6 +23,11 @@
 
 - [Скидка от онлайн-курсов RMOTR для выпускниц Django Girls (инструкция, как её получить)](http://blog.djangogirls.org/post/163335866918/rmotr-scholarships-for-django-girls)
 
+### Фронтенд (JavaScript, HTML, CSS)
+
+- [Отличный учебник по языку JavaScript на русском](https://learn.javascript.ru)
+- [Интерактивные онлайн-курсы по HTML, CSS и JavaScript](https://htmlacademy.ru/)
+
 ### Сообщества
 
 - [Сообщество для программисток всех возрастов и профессиональных уровней](https://vk.com/codelikegirls)
