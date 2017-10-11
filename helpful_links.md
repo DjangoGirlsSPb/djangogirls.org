@@ -2,10 +2,10 @@
 
 ### Материалы на русском
 
-- [https://www.coursera.org/learn/python-osnovy-programmirovaniya](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
-- [https://www.coursera.org/learn/programming-in-python](https://www.coursera.org/learn/programming-in-python)
-- [https://stepik.org/catalog?tag=22872](https://stepik.org/catalog?tag=22872)
-- [http://python-lab.ru/documentation/index.html](http://python-lab.ru/documentation/index.html)
+- [Курс по основам программирования на Python для новичков](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
+- [Курс по программированию на Python, для людей с промежуточным уровнем знаний](https://www.coursera.org/learn/programming-in-python)
+- [Курсы по Computer Science на русском языке](https://stepik.org/catalog?language=ru&tag=22872)
+- [Документация по Python на русском языке](http://python-lab.ru/documentation/index.html)
 
 ### Материалы на английском
 
