@@ -7,6 +7,7 @@
 - [Курсы по Computer Science на русском языке](https://stepik.org/catalog?language=ru&tag=22872)
 - [Документация по Python на русском языке](http://python-lab.ru/documentation/index.html)
 - [Что делать студентам курса после выпуска (огромный список материалов)](http://melevir.com/things/python_styleru/next/)
+- [Лекция по программированию от Юлии Герштейн и Анастасиии Хоревич из сообщества LadyBug](https://www.youtube.com/watch?v=tRd362Z4siE)
 
 ### Материалы на английском
 
