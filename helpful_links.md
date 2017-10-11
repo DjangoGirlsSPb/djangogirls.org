@@ -15,6 +15,7 @@
 - [Классическая книжка по Python "Learn Python The Hard Way"](https://learnpythonthehardway.org/book/)
 - [Курс "Введение в Computer Science" на udacity](https://www.udacity.com/course/intro-to-computer-science--cs101)
 - [Курс Computer Science 101 (стенфордский, для произвольного темпа)](http://online.stanford.edu/course/computer-science-101-self-paced)
+- [Введение в Computer Science и программирование на Python (MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
 
 ### Сообщества
 
