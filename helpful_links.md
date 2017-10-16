@@ -8,6 +8,7 @@
 - [Документация по Python на русском языке](http://python-lab.ru/documentation/index.html)
 - [Что делать студентам курса после выпуска (огромный список материалов)](http://melevir.com/things/python_styleru/next/)
 - [Лекция по программированию от Юлии Герштейн и Анастасии Хоревич из сообщества LadyBug](https://www.youtube.com/watch?v=tRd362Z4siE)
+- [Платные курсы по Python с нуля, на русском языке](https://learn.python.ru)
 
 ### Материалы на английском
 
