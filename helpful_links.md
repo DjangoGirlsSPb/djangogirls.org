@@ -2,7 +2,7 @@
 
 ### Материалы на русском
 
-- Если вы знаете английский, мы советуем учиться на английском языке!
+*Если вы знаете английский, мы советуем учиться на английском языке!*
 
 - [НИУ ВШЭ на Coursera: Курс по основам программирования на Python для новичков](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
 - [Курс по программированию на Python, для людей с промежуточным уровнем знаний](https://www.coursera.org/learn/programming-in-python)
@@ -36,12 +36,12 @@
 - [Stepik: основы Linux, на русском языке](https://stepik.org/course/73/syllabus)
 - [Udacity: Linux command line basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
-## Git
+### Git
 
 - [Udacity: how to use git and github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Git: простое руководство от Roger Dudler, на русском языке](http://rogerdudler.github.io/git-guide/index.ru.html)
 
-## Базы данных
+### Базы данных
 
 - [Stanford Database course](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 
